@@ -1,0 +1,7 @@
+bases:
+- ../../base
+
+resources:
+- ns.yaml
+
+namespace: clienta-kubeless

@@ -1,0 +1,4 @@
+resources:
+- kubeless.yaml
+
+namespace: kubeless
